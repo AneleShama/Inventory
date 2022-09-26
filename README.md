@@ -4,8 +4,8 @@
 This program is for Nike Warehouse. I help with stock taking, optimising delivery time.
 
 ## Usage
-```
 The menu is displayed once the program is run:
+```
 What would you like to select?
 
 A   - Read shoes data
